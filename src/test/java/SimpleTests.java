@@ -5,12 +5,12 @@ import static org.junit.jupiter.api.Assertions.assertEquals;
 public class SimpleTests {
 
     @Test
-    void PositiveCase() {
+    void positiveCase() {
         assertEquals(2 * 2, 4);
     }
 
     @Test
-    void NegativeCase() {
+    void negativeCase() {
         assertEquals(2+2, 13);
     }
 }
