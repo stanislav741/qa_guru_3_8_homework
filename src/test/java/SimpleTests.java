@@ -11,6 +11,6 @@ public class SimpleTests {
 
     @Test
     void negativeCase() {
-        assertEquals(2+2, 13);
+        assertEquals(2 + 2, 13);
     }
 }
